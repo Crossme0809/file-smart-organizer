@@ -1,0 +1,34 @@
+# ========================
+# 大模型配置 (Gemini)
+# ========================
+# API Key，用于访问大模型服务
+API_KEY=your_api_key_here
+
+# 模型名称，默认为 Gemini-2.0
+MODEL_NAME=gemini-2.0-flash-thinking-exp-1219
+
+# Temperature，控制生成文本的随机性
+# 范围：0.0（确定性）到 1.0（随机性更大）
+TEMPERATURE=0.7
+
+# ========================
+# 文件处理相关配置
+# ========================
+# 文件分类的默认根目录（可选，用户未指定时使用此目录）
+DEFAULT_BASE_DIR=/path/to/default/directory
+
+# 是否启用日志记录功能（True 或 False）
+ENABLE_LOGGING=True
+
+# 日志文件路径
+LOG_FILE_PATH=logs/app.log
+
+# ========================
+# 应用程序配置
+# ========================
+# 应用程序窗口标题
+APP_TITLE=文件智能分类整理工具 v0.3
+
+# 最小化窗口尺寸（宽度x高度）
+MIN_WINDOW_WIDTH=800
+MIN_WINDOW_HEIGHT=600
