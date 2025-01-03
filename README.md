@@ -16,6 +16,26 @@
 - 🔍 实时预览：整理前可预览分类结果
 - ♻️ 清理功能：自动清理空目录和临时文件
 
+## 效果展示
+
+### 1. 待整理的混乱文件目录
+<div align="center">
+  <img src="https://github.com/Crossme0809/frenzy_repo/blob/main/file-smart-organizer/books_origin.jpg" alt="原始文件目录" width="800"/>
+  <p><em>混乱的文件目录，需要整理</em></p>
+</div>
+
+### 2. 智能分析分类过程
+<div align="center">
+  <img src="https://github.com/Crossme0809/frenzy_repo/blob/main/file-smart-organizer/file_organizer..png" alt="智能分析界面" width="800"/>
+  <p><em>文件智能分析和分类过程</em></p>
+</div>
+
+### 3. 整理完成后的效果
+<div align="center">
+  <img src="https://github.com/Crossme0809/frenzy_repo/blob/main/file-smart-organizer/books_organizer.png" alt="整理后的文件目录" width="800"/>
+  <p><em>文件自动分类整理后的清晰结构</em></p>
+</div>
+
 ## 功能介绍
 
 1. **文件分析**
